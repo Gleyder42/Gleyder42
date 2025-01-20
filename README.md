@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eric, and I am a Software Engineering student from Germany with a focus on backend development.</p>
+<p align="left">My name is Eric, and I am a Software Engineering student from Germany studying in the Netherlands with a focus on backend development.</p>
 
 ###
 
