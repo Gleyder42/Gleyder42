@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Svelte, HTML, TailwindCSS</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Leptos, HTML, TailwindCSS</p>
 
 ###
 
